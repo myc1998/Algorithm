@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1529206483 source:d:\c++\程序\石子合并问题\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<algorithm>
+	<stack>
+
